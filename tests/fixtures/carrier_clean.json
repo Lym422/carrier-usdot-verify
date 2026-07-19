@@ -1,0 +1,27 @@
+{
+  "content": {
+    "carrier": {
+      "dotNumber": 1234567,
+      "legalName": "ACME TRUCKING LLC",
+      "dbaName": null,
+      "allowedToOperate": "Y",
+      "statusCode": "A",
+      "oosDate": null,
+      "safetyRating": "S",
+      "safetyRatingDate": "2024-03-15",
+      "mcs150Outdated": "N",
+      "totalPowerUnits": 42,
+      "totalDrivers": 55,
+      "phyStreet": "100 INDUSTRIAL WAY",
+      "phyCity": "FONTANA",
+      "phyState": "CA",
+      "driverInsp": 120,
+      "driverOosInsp": 4,
+      "vehicleInsp": 200,
+      "vehicleOosInsp": 30,
+      "crashTotal": 2,
+      "fatalCrash": 0,
+      "injCrash": 1
+    }
+  }
+}

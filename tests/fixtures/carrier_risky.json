@@ -1,0 +1,27 @@
+{
+  "content": {
+    "carrier": {
+      "dotNumber": 7654321,
+      "legalName": "PHANTOM FREIGHT INC",
+      "dbaName": "PF EXPRESS",
+      "allowedToOperate": "N",
+      "statusCode": "A",
+      "oosDate": "2026-02-01",
+      "safetyRating": "C",
+      "safetyRatingDate": "2025-11-02",
+      "mcs150Outdated": "Y",
+      "totalPowerUnits": 0,
+      "totalDrivers": 1,
+      "phyStreet": "PO BOX 99",
+      "phyCity": "DALLAS",
+      "phyState": "TX",
+      "driverInsp": 40,
+      "driverOosInsp": 10,
+      "vehicleInsp": 50,
+      "vehicleOosInsp": 30,
+      "crashTotal": 5,
+      "fatalCrash": 1,
+      "injCrash": 2
+    }
+  }
+}
