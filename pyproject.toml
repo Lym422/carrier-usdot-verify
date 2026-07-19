@@ -27,7 +27,7 @@ dev = ["pytest>=7", "ruff>=0.4"]
 carrier-verify = "carrier_verify.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/YOUR_GITHUB_USERNAME/carrier-verify"
+Homepage = "https://github.com/Lym422/carrier-usdot-verify"
 
 [tool.setuptools.packages.find]
 where = ["src"]

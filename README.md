@@ -48,7 +48,7 @@ USDOT 7654321: PF EXPRESS
 
 ```bash
 pip install carrier-verify        # once published; or:
-pip install git+https://github.com/YOUR_GITHUB_USERNAME/carrier-verify
+pip install git+https://github.com/Lym422/carrier-usdot-verify
 ```
 
 Get a **free** FMCSA web key at <https://mobile.fmcsa.dot.gov/QCDevsite/> and:
